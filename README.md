@@ -9,3 +9,5 @@
 5. [Analytics Dashboard in Data Studio](https://github.com/HanifaElahi/Certificates/blob/main/Marketing%20Analytics%20Dashboard%20in%20Data%20Studio.pdf)
 6. [Neo4j Overview](https://github.com/HanifaElahi/Certificates/blob/main/neo4j_Certificate_1.pdf)
 7. [Large Language Models (LLMs) Concepts certificate](https://github.com/HanifaElahi/Certificates/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts%20certificate.pdf)
+8. [Building a Go-To-Market Strategy]()
+9. [Cleaning Data with Generative AI]()
